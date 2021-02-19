@@ -1,6 +1,5 @@
 # LAN Checkers with IM Chat
 
-### A Final Project created By Chip Denton and Austin Baker in 2013
+### A Final Project created by Chip Denton and Austin Baker in 2013
 
-- The original 2013 version for Windows 7 can be found in the branch 'original'
-- Look in the main branch for updated code
+- This branch contains the original 2013 version for Windows 7
